@@ -9,9 +9,9 @@ https://bugcrowd.com/
 https://www.antihack.me/leaderboard
 ## Bug Hunt 
 https://bughunt.com.br
-bugbounty.jp 
+## bugbounty.jp 
 https://bugbounty.jp/users/ranking
-bugbounty.sa 
+## bugbounty.sa 
 https://bugbounty.sa/leaderboard
 ## BUG V
 https://bugv.io
