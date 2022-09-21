@@ -1,4 +1,8 @@
 Bug Bounty Platforms:
+## hacker one
+https://hackerone.com/
+## bugcrowd
+https://bugcrowd.com/
 ## YesWeHack
  https://www.yeswehack.com/
 ## Antihack.me
